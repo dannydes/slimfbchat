@@ -1,0 +1,19 @@
+.fbChatSidebar.active .status { right: 0px; }
+.fbDock.plugged_out { left: 15px; }
+
+.fbChatSidebar {
+    opacity: 0 !important;
+    transform: translateX(100px) rotate3d(-65, 200, -60, 89deg);
+    transition: transform 300ms;
+}
+
+.fbChatSidebar.active {
+    opacity: 1;
+    transform: rotate(0deg);
+}
+
+.fbChatSidebar .status {
+    position: relative;
+    right: 180px;
+    transition: right .1s .3s;
+}

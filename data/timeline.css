@@ -1,0 +1,17 @@
+.back { width: 120% !important; }
+.bottomBorder { width: 100% !important; }
+.escapeHatch,
+.fbTimelineCapsule, .fbTimelineTopSection { width: 120%; }
+.fbTimelineComposerUnit .-cx-PRIVATE-fbComposer__content { width: 100%; }
+.fbTimelineOneColumn { width: 103.5% !important; }
+.fbTimelineUFI { width: 107% !important; }
+.fbTimelineUnit { width: 48.6% }
+.shareRedesign { width: 69% !important; }
+.timelineRecentActivityPager { width: 69%; }
+.timelineUnitContainer { width: 94% !important; }
+.UFIContainer { width: 100% !important; }
+
+.coverWrap {
+    margin-left: 12.5%;
+    width: 75%;
+}

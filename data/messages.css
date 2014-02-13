@@ -1,0 +1,9 @@
+@-moz-document regexp("https?:\/\/www.facebook.com\/messages\/\w*") {
+    .-cx-PRIVATE-webMessengerReadView__messageList { width: 140%; }
+    .-cx-PRIVATE-webMessengerReadView__root { width: 64% !important; }
+
+    .-cx-PUBLIC-webMessengerBase__contentGrid {
+        width: 140% !important;
+        border: 0px !important;
+    }
+}

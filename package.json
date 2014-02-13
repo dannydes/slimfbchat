@@ -1,0 +1,1 @@
+{"license": "", "description": "Makes Facebook Chat sidebar slimer when accessed through facebook.com", "contributors": [], "author": "danieldesira", "url": "", "dependencies": ["danieldesira-lib", "api-utils", "addon-kit"], "version": "0.2.3.rev227", "lib": "lib", "fullName": "Slim FB Chat", "main": "main", "id": "jid0-IIu38wtR8DOzVQNOuA44WHPfhE4", "name": "slim-fb-chat"}

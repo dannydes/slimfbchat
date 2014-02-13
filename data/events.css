@@ -1,0 +1,7 @@
+.-cx-PRIVATE-fbComposer__content, .uiMorePager, .uiStream { width: 100%; }
+.fbEventContent { width: 79.5% !important; }
+
+.fbEventsPage > .rfloat {
+    position: absolute;
+    right: -10%;
+}

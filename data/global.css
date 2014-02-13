@@ -1,0 +1,28 @@
+.-cx-PRIVATE-fbComposer__content { width: 150%; }
+.-cx-PRIVATE-ogAggregationList__container { width: 90% !important; }
+.photoRedesign, #navSearch .inputtext { width: 100% !important; }
+.shareRedesignContainer, .shareRedesignText, .shareRedesignTopBorder,
+.shareRedesignBottomBorder { width: 150%; }
+.shareRedesignRightBorder { left: 150%; }
+.uiSearchInput > span { width: 100%; }
+.uiStream, .uiMorePager { width: 150%; }
+.rhcFooterCopyright:after { content: " customized by Daniel Desira"; }
+#navSearch { width: 78.9% !important; }
+
+#pageNav {
+    position: relative;
+    top: -30px;
+    left: 100%;
+}
+
+#rightCol {
+    position: relative;
+    left: 58%;
+}
+
+@media screen and (max-width: 1241px) {
+    #contentArea {
+        position: relative;
+        top: -1000px;
+    }
+}
